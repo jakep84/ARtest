@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="myCardAR" size="50.000000 86.340637" />
     <ImageTarget name="notionTheoryCard" size="50.000000 28.002930" />
     <ImageTarget name="3sfg" size="50.000000 33.333332" />
     <ImageTarget name="fullsizeoutput_1" size="50.000000 73.348518" />
